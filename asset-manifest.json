@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ZEAL-MEET/static/css/main.81fd7833.chunk.css",
+    "main.js": "/ZEAL-MEET/static/js/main.e6f2fdf0.chunk.js",
+    "main.js.map": "/ZEAL-MEET/static/js/main.e6f2fdf0.chunk.js.map",
+    "runtime-main.js": "/ZEAL-MEET/static/js/runtime-main.33b8c2f1.js",
+    "runtime-main.js.map": "/ZEAL-MEET/static/js/runtime-main.33b8c2f1.js.map",
+    "static/css/2.7679ac31.chunk.css": "/ZEAL-MEET/static/css/2.7679ac31.chunk.css",
+    "static/js/2.4e964c00.chunk.js": "/ZEAL-MEET/static/js/2.4e964c00.chunk.js",
+    "static/js/2.4e964c00.chunk.js.map": "/ZEAL-MEET/static/js/2.4e964c00.chunk.js.map",
+    "index.html": "/ZEAL-MEET/index.html",
+    "precache-manifest.e593e83c44c729e5a70b69a7ed82bf8e.js": "/ZEAL-MEET/precache-manifest.e593e83c44c729e5a70b69a7ed82bf8e.js",
+    "service-worker.js": "/ZEAL-MEET/service-worker.js",
+    "static/css/2.7679ac31.chunk.css.map": "/ZEAL-MEET/static/css/2.7679ac31.chunk.css.map",
+    "static/css/main.81fd7833.chunk.css.map": "/ZEAL-MEET/static/css/main.81fd7833.chunk.css.map",
+    "static/js/2.4e964c00.chunk.js.LICENSE.txt": "/ZEAL-MEET/static/js/2.4e964c00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33b8c2f1.js",
+    "static/css/2.7679ac31.chunk.css",
+    "static/js/2.4e964c00.chunk.js",
+    "static/css/main.81fd7833.chunk.css",
+    "static/js/main.e6f2fdf0.chunk.js"
+  ]
+}
